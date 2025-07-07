@@ -28,18 +28,18 @@ _The General Purpose Register, holding temprary data for CPU to use._
 
 ### 3. ALU (Arithmetic Logic Unit)
 
-![ALU](Images/ALU-with_acumulator.png)
-_The brain of the CPU: the ALU, performing arithmetic and logical operations._
+![ALU](Images/4-bit_ALU.png)
+_This is a 4-bit ALU based 74181IC. I have used two of these to make a 8-bit ALU._
 
-### 4. RAM Module
+<!-- ### 4. RAM Module
 
 ![RAM Module](Images/Ram.png)
-_The RAM module for Temprary data storage and VRAM(data storage for display)._
+_The RAM module for Temprary data storage and VRAM(data storage for display)._ -->
 
-### 5. Control Unit
+<!-- ### 5. Control Unit
 
 ![Control Unit](Images/Control_Unit.png)
-_The Control Unit, This decodes instructions and sets the path for data to flow._
+_The Control Unit, This decodes instructions and sets the path for data to flow._ -->
 
 ---
 

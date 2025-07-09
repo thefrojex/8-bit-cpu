@@ -51,7 +51,8 @@ _The Control Unit, This decodes instructions and sets the path for data to flow.
 ---
 
 ## Schematics / Block Diagrams
-(Link to or embed your schematics here)
+#### This is a Block diagram of all the connected parted to my CPU
+![RAM Module](Images/image.png)
 
 
 

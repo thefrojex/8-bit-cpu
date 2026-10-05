@@ -1,2 +1,0 @@
-Add lucid chart block diagram
-Add all the list of op codes and how to program the cpu

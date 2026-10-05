@@ -26,7 +26,7 @@ This project showcases a simple 8-bit CPU built using digital logic components. 
 #### 1. Program Counter (PC) and ROM
 
 ![Program Counter](Images/ROM_with_PC.png)
-_The Program Counter module, In this cpu PC is a normal counter with counts up when an Instructions is executed._
+_The Program Counter module. In this CPU, the PC is a normal counter that counts up each time an instruction is executed (no jump/branch support yet)._
 
 #### 2. General Purpose Registers (GR)
 
@@ -36,12 +36,12 @@ _The General Purpose Register, holding temporary data for CPU to use._
 #### 3. ALU (Arithmetic Logic Unit)
 
 ![ALU](Images/4-bit_ALU.png)
-_This is a 4-bit ALU based 74181IC. I have used two of these to make a 8-bit ALU._
+_This is a 4-bit ALU based on the 74181 IC. I used two of these to make an 8-bit ALU._
 
 ### 4. RAM Module
 
 ![RAM Module](Images/Ram.png)
-_The RAM module for Temprary data storage and VRAM(data storage for display)._
+_The RAM module for temporary data storage and VRAM (data storage for the display)._
 
 <!-- #### 5. Control Unit
 
@@ -51,7 +51,7 @@ _The Control Unit, This decodes instructions and sets the path for data to flow.
 ---
 
 ## Schematics / Block Diagrams
-#### This is a Block diagram of all the connected parted to my CPU
+#### This is a block diagram of all the connected parts of my CPU
 ![RAM Module](Images/image.png)
 
 
